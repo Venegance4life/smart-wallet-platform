@@ -7,6 +7,20 @@ A full-stack personal finance app: a **Spring Boot + Spring Security (JWT)** bac
 - **Backend:** Java 17, Spring Boot 3, Spring Security (JWT, stateless), Spring Data JPA, Bean Validation, H2 (dev) / PostgreSQL (prod), Lombok
 - **Frontend:** React 18, React Router, Axios, Recharts, Vite
 
+- ## Live Demo
+🔗 https://smart-wallet-platform-lsugcruby-roy-6ea0.vercel.app
+
+## Test Credentials
+- Email: demo@example.com
+- Password: demo123
+
+## Features
+- ✅ JWT Authentication
+- ✅ Transaction Tracking
+- ✅ Budget Management
+- ✅ AI-Powered Insights
+- ✅ Analytics Dashboard
+
 ## Project Structure
 
 ```
