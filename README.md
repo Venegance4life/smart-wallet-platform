@@ -10,9 +10,7 @@ A full-stack personal finance app: a **Spring Boot + Spring Security (JWT)** bac
 - ## Live Demo
 🔗 https://smart-wallet-platform-lsugcruby-roy-6ea0.vercel.app
 
-## Test Credentials
-- Email: demo@example.com
-- Password: demo123
+
 
 ## Features
 - ✅ JWT Authentication
